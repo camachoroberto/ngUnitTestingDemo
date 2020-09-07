@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5965358e-afd7-4f86-9842-76c5afd7d6ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1h5zxsebNQ2uLEbKNjGbwJdood2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="js.linters.configure.manually.selectedtslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/app/heroes" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="$USER_HOME$/.nvm/versions/node/v13.6.0/bin/node" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="$USER_HOME$/.nvm/versions/node/v13.6.0/bin/node" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/heroes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Karma.HeroesComponent (deep tests).should call heroService.deleteHero when the Hero Component's delete button is clicked">
+    <configuration name="HeroService" type="JavaScriptTestRunnerKarma" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/src/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v13.6.0/bin/node" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file-path value="$PROJECT_DIR$/src/app/hero.service.spec.ts" />
+      <test-names>
+        <test-name value="HeroService" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="HeroesComponent (deep tests)" type="JavaScriptTestRunnerKarma" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/src/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v13.6.0/bin/node" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file-path value="$PROJECT_DIR$/src/app/heroes/heroes.component.deep.spec.ts" />
+      <test-names>
+        <test-name value="HeroesComponent (deep tests)" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="HeroesComponent (deep tests).should call heroService.deleteHero when the Hero Component's delete button is clicked" type="JavaScriptTestRunnerKarma" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/src/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v13.6.0/bin/node" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file-path value="$PROJECT_DIR$/src/app/heroes/heroes.component.deep.spec.ts" />
+      <test-names>
+        <test-name value="HeroesComponent (deep tests)" />
+        <test-name value="should call heroService.deleteHero when the Hero Component's delete button is clicked" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="HeroesComponent (shallow tests) (1)" type="JavaScriptTestRunnerKarma" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/src/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v13.6.0/bin/node" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file-path value="$PROJECT_DIR$/src/app/heroes/heroes.component.deep.spec.ts" />
+      <test-names>
+        <test-name value="HeroesComponent (shallow tests)" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="HeroesComponent (shallow tests)" type="JavaScriptTestRunnerKarma" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/src/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v13.6.0/bin/node" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file-path value="$PROJECT_DIR$/src/app/heroes/heroes.component.shallow.spec.ts" />
+      <test-names>
+        <test-name value="HeroesComponent (shallow tests)" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests (angular-test)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/src/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Karma.HeroesComponent (deep tests).should call heroService.deleteHero when the Hero Component's delete button is clicked" />
+        <item itemvalue="Karma.HeroService" />
+        <item itemvalue="Karma.HeroesComponent (deep tests)" />
+        <item itemvalue="Karma.HeroesComponent (shallow tests) (1)" />
+        <item itemvalue="Karma.HeroesComponent (shallow tests)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5965358e-afd7-4f86-9842-76c5afd7d6ba" name="Default Changelist" comment="" />
+      <created>1599315991276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599315991276</updated>
+      <workItem from="1599315993270" duration="8210000" />
+      <workItem from="1599359366133" duration="18701000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2350" y="239" key="#Inspections" timestamp="1599363445819">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state x="2350" y="239" key="#Inspections/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599363445819" />
+    <state x="2572" y="469" width="1077" height="524" key="#TSLint" timestamp="1599359288506">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state x="2572" y="469" width="1077" height="524" key="#TSLint/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599359288506" />
+    <state width="2534" height="410" key="GridCell.Tab.0.bottom" timestamp="1599512141841">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2534" height="410" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599511877793" />
+    <state width="2534" height="410" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599512141841" />
+    <state width="2534" height="410" key="GridCell.Tab.0.center" timestamp="1599512141840">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2534" height="410" key="GridCell.Tab.0.center/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599511877792" />
+    <state width="2534" height="410" key="GridCell.Tab.0.center/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599512141840" />
+    <state width="2534" height="410" key="GridCell.Tab.0.left" timestamp="1599512141840">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2534" height="410" key="GridCell.Tab.0.left/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599511877792" />
+    <state width="2534" height="410" key="GridCell.Tab.0.left/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599512141840" />
+    <state width="2534" height="410" key="GridCell.Tab.0.right" timestamp="1599512141841">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2534" height="410" key="GridCell.Tab.0.right/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599511877793" />
+    <state width="2534" height="410" key="GridCell.Tab.0.right/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599512141841" />
+    <state width="2534" height="410" key="GridCell.Tab.1.bottom" timestamp="1599512141844">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2534" height="410" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599511877795" />
+    <state width="2534" height="410" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599512141844" />
+    <state width="2534" height="410" key="GridCell.Tab.1.center" timestamp="1599512141843">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2534" height="410" key="GridCell.Tab.1.center/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599511877794" />
+    <state width="2534" height="410" key="GridCell.Tab.1.center/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599512141843" />
+    <state width="2534" height="410" key="GridCell.Tab.1.left" timestamp="1599512141842">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2534" height="410" key="GridCell.Tab.1.left/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599511877794" />
+    <state width="2534" height="410" key="GridCell.Tab.1.left/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599512141842" />
+    <state width="2534" height="410" key="GridCell.Tab.1.right" timestamp="1599512141843">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2534" height="410" key="GridCell.Tab.1.right/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599511877795" />
+    <state width="2534" height="410" key="GridCell.Tab.1.right/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599512141843" />
+    <state width="2535" height="507" key="GridCell.Tab.2.bottom" timestamp="1599356832976">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2535" height="507" key="GridCell.Tab.2.bottom/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599356832976" />
+    <state width="2535" height="507" key="GridCell.Tab.2.center" timestamp="1599356832975">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2535" height="507" key="GridCell.Tab.2.center/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599356832975" />
+    <state width="2535" height="507" key="GridCell.Tab.2.left" timestamp="1599356832974">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2535" height="507" key="GridCell.Tab.2.left/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599356832974" />
+    <state width="2535" height="507" key="GridCell.Tab.2.right" timestamp="1599356832975">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2535" height="507" key="GridCell.Tab.2.right/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599356832975" />
+    <state width="2535" height="507" key="GridCell.Tab.3.bottom" timestamp="1599356832977">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2535" height="507" key="GridCell.Tab.3.bottom/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599356832977" />
+    <state width="2535" height="507" key="GridCell.Tab.3.bottom/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599317525332" />
+    <state width="2535" height="507" key="GridCell.Tab.3.center" timestamp="1599356832977">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2535" height="507" key="GridCell.Tab.3.center/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599356832977" />
+    <state width="2535" height="507" key="GridCell.Tab.3.center/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599317525330" />
+    <state width="2535" height="507" key="GridCell.Tab.3.left" timestamp="1599356832976">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2535" height="507" key="GridCell.Tab.3.left/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599356832976" />
+    <state width="2535" height="507" key="GridCell.Tab.3.left/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599317525329" />
+    <state width="2535" height="507" key="GridCell.Tab.3.right" timestamp="1599356832977">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2535" height="507" key="GridCell.Tab.3.right/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599356832977" />
+    <state width="2535" height="507" key="GridCell.Tab.3.right/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599317525331" />
+    <state width="2535" height="412" key="GridCell.Tab.4.bottom" timestamp="1599317347634">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2535" height="412" key="GridCell.Tab.4.bottom/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599317347634" />
+    <state width="2535" height="412" key="GridCell.Tab.4.center" timestamp="1599317347632">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2535" height="412" key="GridCell.Tab.4.center/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599317347632" />
+    <state width="2535" height="412" key="GridCell.Tab.4.left" timestamp="1599317347630">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2535" height="412" key="GridCell.Tab.4.left/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599317347630" />
+    <state width="2535" height="412" key="GridCell.Tab.4.right" timestamp="1599317347633">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2535" height="412" key="GridCell.Tab.4.right/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599317347633" />
+    <state x="2229" y="207" key="SettingsEditor" timestamp="1599507843049">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state x="2229" y="207" key="SettingsEditor/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599507843049" />
+    <state x="2358" y="137" width="724" height="861" key="find.popup" timestamp="1599509332098">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state x="2358" y="137" width="724" height="861" key="find.popup/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599509332098" />
+    <state x="2375" y="354" key="jetbrains.nodejs.interpreters-dialog" timestamp="1599360985599">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state x="2375" y="354" key="jetbrains.nodejs.interpreters-dialog/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599360985599" />
+    <state x="2301" y="172" width="838" height="1032" key="search.everywhere.popup" timestamp="1599489602359">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state x="2301" y="172" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599489602359" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ngUnitTestinGDemo$HeroesComponent.dat" NAME="HeroesComponent Coverage Results" MODIFIED="1599362033923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="KarmaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ngUnitTestinGDemo$StrengthPipe_should_diplay_weak_if_strength_is_5.dat" NAME="StrengthPipe.should diplay weak if strength is 5 Coverage Results" MODIFIED="1599334697540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="KarmaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
