@@ -15,28 +15,25 @@
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5965358e-afd7-4f86-9842-76c5afd7d6ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/hero-detail/hero-detail.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/hero-detail/hero-detail.component.spec.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/hero-detail/hero-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/hero-detail/hero-detail.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/hero.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/hero.service.spec.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/heroes/heroes.component.deep.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/heroes/heroes.component.deep.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/heroes/heroes.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/heroes/heroes.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +58,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1h5zxsebNQ2uLEbKNjGbwJdood2" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -73,13 +70,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.linters.configure.manually.selectedtslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/app/heroes" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="$USER_HOME$/.nvm/versions/node/v13.6.0/bin/node" />
     <property name="node.js.path.for.package.standard" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="$USER_HOME$/.nvm/versions/node/v13.6.0/bin/node" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -93,7 +91,21 @@
       <recent name="$PROJECT_DIR$/src/app/heroes" />
     </key>
   </component>
-  <component name="RunManager" selected="Karma.HeroesComponent (deep tests)">
+  <component name="RunManager" selected="Karma.HeroDetailComponent.should call updateHero when save is called">
+    <configuration name="HeroDetailComponent.should call updateHero when save is called" type="JavaScriptTestRunnerKarma" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/src/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file-path value="$PROJECT_DIR$/src/app/hero-detail/hero-detail.component.spec.ts" />
+      <test-names>
+        <test-name value="HeroDetailComponent" />
+        <test-name value="should call updateHero when save is called" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="HeroService" type="JavaScriptTestRunnerKarma" temporary="true" nameIsGenerated="true">
       <config-file value="$PROJECT_DIR$/src/karma.conf.js" />
       <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
@@ -111,7 +123,7 @@
       <config-file value="$PROJECT_DIR$/src/karma.conf.js" />
       <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
       <working-directory value="$PROJECT_DIR$" />
-      <node-interpreter value="project" />
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v13.6.0/bin/node" />
       <envs />
       <scope-kind value="SUITE" />
       <test-file-path value="$PROJECT_DIR$/src/app/heroes/heroes.component.deep.spec.ts" />
@@ -147,19 +159,6 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="HeroesComponent (shallow tests)" type="JavaScriptTestRunnerKarma" temporary="true" nameIsGenerated="true">
-      <config-file value="$PROJECT_DIR$/src/karma.conf.js" />
-      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
-      <working-directory value="$PROJECT_DIR$" />
-      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v13.6.0/bin/node" />
-      <envs />
-      <scope-kind value="SUITE" />
-      <test-file-path value="$PROJECT_DIR$/src/app/heroes/heroes.component.shallow.spec.ts" />
-      <test-names>
-        <test-name value="HeroesComponent (shallow tests)" />
-      </test-names>
-      <method v="2" />
-    </configuration>
     <configuration name="Tests (angular-test)" type="JavaScriptTestRunnerKarma">
       <config-file value="$PROJECT_DIR$/src/karma.conf.js" />
       <working-directory value="$PROJECT_DIR$" />
@@ -182,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Karma.HeroesComponent (deep tests)" />
+        <item itemvalue="Karma.HeroDetailComponent.should call updateHero when save is called" />
         <item itemvalue="Karma.HeroesComponent (deep tests).should call heroService.deleteHero when the Hero Component's delete button is clicked" />
         <item itemvalue="Karma.HeroService" />
+        <item itemvalue="Karma.HeroesComponent (deep tests)" />
         <item itemvalue="Karma.HeroesComponent (shallow tests) (1)" />
-        <item itemvalue="Karma.HeroesComponent (shallow tests)" />
       </list>
     </recent_temporary>
   </component>
@@ -199,11 +198,8 @@
       <option name="presentableId" value="Default" />
       <updated>1599315991276</updated>
       <workItem from="1599315993270" duration="8210000" />
-      <workItem from="1599359366133" duration="18701000" />
-      <workItem from="1599513829695" duration="4045000" />
-      <workItem from="1599565139888" duration="707000" />
-      <workItem from="1599782951258" duration="2305000" />
-      <workItem from="1599827537904" duration="2841000" />
+      <workItem from="1599359366133" duration="18852000" />
+      <workItem from="1599924125251" duration="6099000" />
     </task>
     <servers />
   </component>
@@ -215,7 +211,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -227,58 +235,53 @@
       <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
     <state x="2350" y="239" key="#Inspections/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599363445819" />
-    <state x="906" y="480" width="862" height="441" key="#TSLint" timestamp="1599513893631">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="2572" y="469" width="1077" height="524" key="#TSLint" timestamp="1599359288506">
+      <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
-    <state x="906" y="480" width="862" height="441" key="#TSLint/-1920.155.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1599513893631" />
     <state x="2572" y="469" width="1077" height="524" key="#TSLint/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599359288506" />
-    <state width="1004" height="225" key="GridCell.Tab.0.bottom" timestamp="1599513960780">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="1540" y="-52" width="2360" height="1240" key="DiffContextDialog" timestamp="1599943421329">
+      <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
-    <state width="1004" height="225" key="GridCell.Tab.0.bottom/-1920.155.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1599513960780" />
-    <state width="2534" height="410" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599511877793" />
+    <state x="1540" y="-52" width="2360" height="1240" key="DiffContextDialog/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599943421329" />
+    <state width="2534" height="410" key="GridCell.Tab.0.bottom" timestamp="1599951108976">
+      <screen x="1440" y="-152" width="2560" height="1440" />
+    </state>
+    <state width="2534" height="410" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599951108976" />
     <state width="2534" height="410" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599512141841" />
-    <state width="1004" height="225" key="GridCell.Tab.0.center" timestamp="1599513960780">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="2534" height="410" key="GridCell.Tab.0.center" timestamp="1599951108975">
+      <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
-    <state width="1004" height="225" key="GridCell.Tab.0.center/-1920.155.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1599513960780" />
-    <state width="2534" height="410" key="GridCell.Tab.0.center/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599511877792" />
+    <state width="2534" height="410" key="GridCell.Tab.0.center/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599951108975" />
     <state width="2534" height="410" key="GridCell.Tab.0.center/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599512141840" />
-    <state width="1004" height="225" key="GridCell.Tab.0.left" timestamp="1599513960780">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="2534" height="410" key="GridCell.Tab.0.left" timestamp="1599951108975">
+      <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
-    <state width="1004" height="225" key="GridCell.Tab.0.left/-1920.155.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1599513960780" />
-    <state width="2534" height="410" key="GridCell.Tab.0.left/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599511877792" />
+    <state width="2534" height="410" key="GridCell.Tab.0.left/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599951108975" />
     <state width="2534" height="410" key="GridCell.Tab.0.left/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599512141840" />
-    <state width="1004" height="225" key="GridCell.Tab.0.right" timestamp="1599513960780">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="2534" height="410" key="GridCell.Tab.0.right" timestamp="1599951108976">
+      <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
-    <state width="1004" height="225" key="GridCell.Tab.0.right/-1920.155.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1599513960780" />
-    <state width="2534" height="410" key="GridCell.Tab.0.right/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599511877793" />
+    <state width="2534" height="410" key="GridCell.Tab.0.right/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599951108976" />
     <state width="2534" height="410" key="GridCell.Tab.0.right/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599512141841" />
-    <state width="1004" height="225" key="GridCell.Tab.1.bottom" timestamp="1599513960780">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="2534" height="410" key="GridCell.Tab.1.bottom" timestamp="1599951108978">
+      <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
-    <state width="1004" height="225" key="GridCell.Tab.1.bottom/-1920.155.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1599513960780" />
-    <state width="2534" height="410" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599511877795" />
+    <state width="2534" height="410" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599951108978" />
     <state width="2534" height="410" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599512141844" />
-    <state width="1004" height="225" key="GridCell.Tab.1.center" timestamp="1599513960780">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="2534" height="410" key="GridCell.Tab.1.center" timestamp="1599951108977">
+      <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
-    <state width="1004" height="225" key="GridCell.Tab.1.center/-1920.155.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1599513960780" />
-    <state width="2534" height="410" key="GridCell.Tab.1.center/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599511877794" />
+    <state width="2534" height="410" key="GridCell.Tab.1.center/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599951108977" />
     <state width="2534" height="410" key="GridCell.Tab.1.center/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599512141843" />
-    <state width="1004" height="225" key="GridCell.Tab.1.left" timestamp="1599513960780">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="2534" height="410" key="GridCell.Tab.1.left" timestamp="1599951108977">
+      <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
-    <state width="1004" height="225" key="GridCell.Tab.1.left/-1920.155.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1599513960780" />
-    <state width="2534" height="410" key="GridCell.Tab.1.left/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599511877794" />
+    <state width="2534" height="410" key="GridCell.Tab.1.left/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599951108977" />
     <state width="2534" height="410" key="GridCell.Tab.1.left/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599512141842" />
-    <state width="1004" height="225" key="GridCell.Tab.1.right" timestamp="1599513960780">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="2534" height="410" key="GridCell.Tab.1.right" timestamp="1599951108978">
+      <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
-    <state width="1004" height="225" key="GridCell.Tab.1.right/-1920.155.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1599513960780" />
-    <state width="2534" height="410" key="GridCell.Tab.1.right/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599511877795" />
+    <state width="2534" height="410" key="GridCell.Tab.1.right/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599951108978" />
     <state width="2534" height="410" key="GridCell.Tab.1.right/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599512141843" />
     <state width="2535" height="507" key="GridCell.Tab.2.bottom" timestamp="1599356832976">
       <screen x="1440" y="-152" width="2560" height="1440" />
@@ -316,45 +319,41 @@
     </state>
     <state width="2535" height="507" key="GridCell.Tab.3.right/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599356832977" />
     <state width="2535" height="507" key="GridCell.Tab.3.right/0.23.1440.877/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599317525331" />
-    <state width="1004" height="225" key="GridCell.Tab.4.bottom" timestamp="1599513922643">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="2535" height="412" key="GridCell.Tab.4.bottom" timestamp="1599317347634">
+      <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
-    <state width="1004" height="225" key="GridCell.Tab.4.bottom/-1920.155.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1599513922643" />
     <state width="2535" height="412" key="GridCell.Tab.4.bottom/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599317347634" />
-    <state width="1004" height="225" key="GridCell.Tab.4.center" timestamp="1599513922643">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="2535" height="412" key="GridCell.Tab.4.center" timestamp="1599317347632">
+      <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
-    <state width="1004" height="225" key="GridCell.Tab.4.center/-1920.155.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1599513922643" />
     <state width="2535" height="412" key="GridCell.Tab.4.center/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599317347632" />
-    <state width="1004" height="225" key="GridCell.Tab.4.left" timestamp="1599513922642">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="2535" height="412" key="GridCell.Tab.4.left" timestamp="1599317347630">
+      <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
-    <state width="1004" height="225" key="GridCell.Tab.4.left/-1920.155.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1599513922642" />
     <state width="2535" height="412" key="GridCell.Tab.4.left/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599317347630" />
-    <state width="1004" height="225" key="GridCell.Tab.4.right" timestamp="1599513922643">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="2535" height="412" key="GridCell.Tab.4.right" timestamp="1599317347633">
+      <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
-    <state width="1004" height="225" key="GridCell.Tab.4.right/-1920.155.1280.687/0.0.2048.1112@0.0.2048.1112" timestamp="1599513922643" />
     <state width="2535" height="412" key="GridCell.Tab.4.right/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599317347633" />
     <state x="2229" y="207" key="SettingsEditor" timestamp="1599507843049">
       <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
     <state x="2229" y="207" key="SettingsEditor/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599507843049" />
-    <state x="2358" y="137" width="724" height="861" key="find.popup" timestamp="1599509332098">
+    <state x="2358" y="137" width="724" height="861" key="find.popup" timestamp="1599945587330">
       <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
-    <state x="2358" y="137" width="724" height="861" key="find.popup/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599509332098" />
+    <state x="2358" y="137" width="724" height="861" key="find.popup/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599945587330" />
     <state x="2375" y="354" key="jetbrains.nodejs.interpreters-dialog" timestamp="1599360985599">
       <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
     <state x="2375" y="354" key="jetbrains.nodejs.interpreters-dialog/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599360985599" />
-    <state x="2301" y="172" width="838" height="1032" key="search.everywhere.popup" timestamp="1599489602359">
+    <state x="2301" y="172" width="838" height="1032" key="search.everywhere.popup" timestamp="1599949555059">
       <screen x="1440" y="-152" width="2560" height="1440" />
     </state>
-    <state x="2301" y="172" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599489602359" />
+    <state x="2301" y="172" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900/1440.-152.2560.1440@1440.-152.2560.1440" timestamp="1599949555059" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ngUnitTestinGDemo$StrengthPipe_should_diplay_weak_if_strength_is_5.dat" NAME="StrengthPipe.should diplay weak if strength is 5 Coverage Results" MODIFIED="1599334697540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="KarmaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/ngUnitTestinGDemo$HeroesComponent.dat" NAME="HeroesComponent Coverage Results" MODIFIED="1599362033923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="KarmaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ngUnitTestinGDemo$StrengthPipe_should_diplay_weak_if_strength_is_5.dat" NAME="StrengthPipe.should diplay weak if strength is 5 Coverage Results" MODIFIED="1599334697540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="KarmaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
