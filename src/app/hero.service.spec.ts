@@ -43,7 +43,7 @@ describe('HeroService', () => {
   // });
 
   // Tipo 2
-  describe('getHero', () => {
+  xdescribe('getHero', () => {
 
     it('should call get with the correct URL', function () {
 
